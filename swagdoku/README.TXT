@@ -9,4 +9,4 @@ python3 (pathname)/swagdoku/sudokuboard.py
 
 On non mac machines, use the equivalent python command. Updates will be posted to https://github.com/lsgordon. Make sure to download the whole folder for intended results.
 
-You can start a new board with the "newgame" button. You can move with WASD.
+You can start a new board with the "newgame" button. You can move with arrow keys.
